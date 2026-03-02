@@ -14,7 +14,7 @@ Welcome! This repo is the public home for:
 - [Report a bug](https://github.com/LotusLabsInc/northstar-issues/issues/new?template=bug_report.yml)
 - [Request a feature](https://github.com/LotusLabsInc/northstar-issues/issues/new?template=feature_request.yml)
 - [Start a discussion](https://github.com/LotusLabsInc/northstar-issues/discussions/new/choose)
-- [View all open issues](https://github.com/LotusLabsInc/northstar-issues/issues)
+- [View all open tickets](https://github.com/orgs/LotusLabsInc/projects/6)
 
 ## What to include in bug reports
 - What you expected vs what happened
