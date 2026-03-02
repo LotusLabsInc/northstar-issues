@@ -9,9 +9,12 @@ Welcome! This repo is the public home for:
 - Product discussions
 
 ## Quick links
-- **Report a bug:** open an Issue using the Bug Report template
-- **Request a feature:** open an Issue using the Feature Request template
-- **Ask a question / start a discussion:** use Discussions
+## Quick Links
+
+- [Report a bug](https://github.com/LotusLabsInc/northstar-issues/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/LotusLabsInc/northstar-issues/issues/new?template=feature_request.yml)
+- [Start a discussion](https://github.com/LotusLabsInc/northstar-issues/discussions/new)
+- [View all open issues](https://github.com/LotusLabsInc/northstar-issues/issues)
 
 ## What to include in bug reports
 - What you expected vs what happened
