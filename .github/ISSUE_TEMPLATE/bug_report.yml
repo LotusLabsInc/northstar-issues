@@ -1,0 +1,48 @@
+name: Bug report
+description: Something isn’t working
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks! The more detail you provide, the faster we can help."
+
+  - type: input
+    id: version
+    attributes:
+      label: Northstar version
+      placeholder: "e.g. 1.2.0 (123)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: "What did you expect to happen?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      placeholder: "What actually happened?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1) ...
+        2) ...
+        3) ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      description: "Redact secrets. Do NOT post API keys, JWTs, or private keys."
