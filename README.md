@@ -1,3 +1,5 @@
+![Northstar App Icon](Resources/NorthstarAppIcon.png)
+
 # Northstar Issues & Discussions
 
 Welcome! This repo is the public home for:
