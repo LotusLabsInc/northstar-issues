@@ -8,7 +8,6 @@ Welcome! This repo is the public home for:
 - Questions / troubleshooting
 - Product discussions
 
-## Quick links
 ## Quick Links
 
 - [Report a bug](https://github.com/LotusLabsInc/northstar-issues/issues/new?template=bug_report.yml)
